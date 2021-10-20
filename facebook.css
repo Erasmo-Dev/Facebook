@@ -1,0 +1,73 @@
+body {
+    background-color: #EEEFF6;
+}
+
+.formulario {
+    width: 400px;
+    text-align: center;
+    margin-top: 110px;
+    height: 330px;
+    border-radius: 10px;
+    background-color: #FEFEFE;
+}
+
+.formulario a {
+    text-decoration: none;
+}
+
+.formulario input,
+button {
+    height: 50px;
+}
+
+.formulario div {
+    margin: 10px;
+}
+
+.empresa {
+    white-space: nowrap;
+    font-size: 14px;
+    margin-left: 11px;
+}
+
+.empresa a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo {
+    margin-top: 130px;
+}
+
+.logo img {
+    width: 300px;
+}
+
+footer {
+    margin-top: 200px;
+    background-color: #FEFEFE;
+    font-size: 13px;
+}
+
+footer a {
+    color: grey;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: grey;
+}
+
+footer li {
+    margin: -7px;
+}
+
+#complemento {
+    margin-top: 20px;
+}
+
+#copi {
+    color: grey;
+    font-size: 11px;
+    margin-top: 10px;
+}
